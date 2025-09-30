@@ -26,5 +26,12 @@
 </div>
 
 <br clear="both">
-
 <p align="right"><sub>Art made by <a href="https://www.instagram.com/dias.donut/" target="_blank">@dias.donut</a></sub></p>
+<div>
+
+  ![snake gif](https://github.com/Yanbitos/Yanbitos/blob/output/github-snake-dark.svg)
+  
+</div>
+
+
+
