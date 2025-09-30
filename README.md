@@ -9,11 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Yanbitos&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
-###
-
-<img align="right" height="300" src="bestboy!.gif"  />
-
-###
+<img align="right" height="300" src="bestboy!.gif" alt="Animated Gif of a Boar Smiling!" />
 
 <div align="left">
   <img src="https://skillicons.dev/icons?i=c" height="52" alt="c logo"  />
@@ -29,10 +25,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="52" alt="java logo"  />
 </div>
 
-###
-
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/Yanbitos/Yanbitos/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="right"><sub>Art made by <a href="https://www.instagram.com/dias.donut/" target="_blank">@dias.donut</a></sub></p>
